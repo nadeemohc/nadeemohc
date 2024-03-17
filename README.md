@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Django, Django Rest Framework, Fastapi...**
 
-- 👯 I’m looking to collaborate on **Backend development for mobile applications**
+- 🥷🏼 I’m looking to collaborate on **Backend development for mobile applications**
 
 - 🤝 I’m looking for help with [Things related to API(Django Rest Framework, Fastapi, etc.)](https://github.com/nadeemohc/Todo_django_flutter.git)
 
