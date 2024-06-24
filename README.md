@@ -1,5 +1,5 @@
 <p align="center">
- <img width="1000" src="spike.gif" alt="spike.gi"/>
+ <img width="1000" src="assets/spike.gif" alt="spike.gi"/>
 </p>
 
 # Hello there
@@ -66,6 +66,6 @@ me.say_bye()
 </div>
 
 <p align="center">
- <img width="1000" src="github-snake.svg" alt="snake"/>
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
