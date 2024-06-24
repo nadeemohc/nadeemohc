@@ -1,13 +1,6 @@
-<p align="center">
- <img width="1000" src="spike.gif" alt="snake"/>
-</p>
-
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nadeemohc&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark" alt="trophy" />
-  </a>
-</div>
+<!-- <p align="center">
+ <img width="1000" src="spike.gif" alt="spike.gi"/>
+</p> -->
 
 # Hello there
 #### Thanks for stopping by. Let me introduce myself 
@@ -44,6 +37,12 @@ class computer_science_student:
 me = computer_science_student()
 me.say_bye()
 ```
+---
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nadeemohc&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark" alt="trophy" />
+  </a>
+</div>
 ---
 
 <p align="center">
