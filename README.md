@@ -18,26 +18,7 @@
 </h3>
 <br>
 
-```python
-#!/usr/bin/python
-
-
-class computer_science_student:
-
-    def __init__(self):
-        self.role = "Backend developer"
-        self.language_learnt = ["c/c++", "python"]
-        self.language_forgot = ["java",]
-        self.database_learnt = ["postgres"]
-        self.framework_learning = ["django", "tkinter", "fastapi"]
-        self.planning_to_learn = ["go", "Js", "pytermgui",]
-
-    def say_bye(self):
-        print("I hope you have a nice day.")
-
-
-me = computer_science_student()
-me.say_bye()
+---
 
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=nadeemohc&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
