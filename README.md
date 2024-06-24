@@ -58,7 +58,7 @@ me.say_bye()
 
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=nadeemohcstyle=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=nadeemohc&style=for-the-badge&color=orange" alt=""/>
 </div>
 
 <p align="center">
