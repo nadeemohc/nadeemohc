@@ -28,7 +28,7 @@ class computer_science_student:
         self.language_forgot = ["java",]
         self.database_learnt = ["postgres"]
         self.framework_learning = ["django", "tkinter", "fastapi"]
-        self.planning_to_learn = ["go", "Js", "pytermgui",]
+        self.planning_to_learn = ["go", "Js"]
 
     def say_bye(self):
         print("I hope you have a nice day.")
