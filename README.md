@@ -24,7 +24,7 @@ class computer_science_student:
 
     def __init__(self):
         self.role = "Backend developer"
-        self.language_learnt = ["c/c++", "python"]
+        self.language_learnt = ["python", "c/c++"]
         self.language_forgot = ["java",]
         self.database_learnt = ["postgres"]
         self.framework_learning = ["django", "tkinter", "fastapi"]
