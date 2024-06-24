@@ -1,5 +1,7 @@
 <div align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=nadeemohc&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nadeemohc&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark" alt="trophy" />
+  </a>
 </div>
 
 # Hello there
@@ -36,7 +38,3 @@ class computer_science_student:
 
 me = computer_science_student()
 me.say_bye()
-```
-
-## Ok, bye 
-
