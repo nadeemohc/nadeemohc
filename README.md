@@ -1,6 +1,6 @@
-<!-- <p align="center">
+<p align="center">
  <img width="1000" src="spike.gif" alt="spike.gi"/>
-</p> -->
+</p>
 
 # Hello there
 #### Thanks for stopping by. Let me introduce myself 
@@ -43,7 +43,7 @@ me.say_bye()
     <img src="https://github-profile-trophy.vercel.app/?username=nadeemohc&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark" alt="trophy" />
   </a>
 </div>
----
+
 
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=nadeemohc&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
