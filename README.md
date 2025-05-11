@@ -1,5 +1,5 @@
 <p align="center">
- <img width="1000" src="assets/spike.gf" alt="spike.gif"/>
+ <img width="1000" src="assets/spike.gif" alt="spike.gif"/>
 </p>
 
 # Hello there
@@ -24,11 +24,10 @@ class computer_science_student:
 
     def __init__(self):
         self.role = "Backend developer"
-        self.language_learnt = ["python", "c/c++"]
-        self.language_forgot = ["java",]
+        self.language_learnt = ["python"]
         self.database_learnt = ["postgres"]
-        self.framework_learning = ["django", "tkinter", "fastapi"]
-        self.planning_to_learn = ["go", "Js"]
+        self.framework_learning = ["django", "frappe", "fastapi"]
+        self.planning_to_learn = ["Js"]
 
     def say_bye(self):
         print("I hope you have a nice day.")
