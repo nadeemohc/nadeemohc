@@ -59,7 +59,7 @@ me.say_bye()
 </p> -->
  
  <p align="center">
-  <b>📊 GitHub Status:</b>
+  <b>📊 GitHub Status</b>
 </p>
 
 <div align="center">
