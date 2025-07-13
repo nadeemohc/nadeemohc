@@ -7,9 +7,9 @@
 
 <h3 align="center">
         <samp>My name's  
-                <b><a target="_blank" href="https://github.com/nadeemohc">Nadeem.</a></b>
+                <b><a target="_blank" href="https://github.com/nadeemohc">Muhammed Nadeem.</a></b>
           <br>
-                <b>I'm a self-taught computer science student</b>
+                <b>I'm a self-taught Software Developer</b>
           <br>
                 <b></b>
         </samp>
@@ -20,28 +20,28 @@
 #!/usr/bin/python
 
 
-class computer_science_student:
+class software_developer:
 
     def __init__(self):
         self.role = "Backend developer"
         self.language_learnt = ["python"]
         self.database_learnt = ["postgres"]
-        self.framework_learning = ["django", "frappe", "fastapi"]
+        self.framework_learning = ["django", "Frappe/ERPNext", "fastapi"]
         self.planning_to_learn = ["Js"]
 
     def say_bye(self):
         print("I hope you have a nice day.")
 
 
-me = computer_science_student()
+me = software_developer()
 me.say_bye()
 ```
 ---
-<!-- <div align="center">
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=nadeemohc&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark" alt="trophy" />
   </a>
-</div> -->
+</div>
 
 
 <p align="center">
