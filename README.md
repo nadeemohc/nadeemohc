@@ -37,11 +37,11 @@ me = software_developer()
 me.say_bye()
 ```
 ---
-<div align="center">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=nadeemohc&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark" alt="trophy" />
   </a>
-</div>
+</p>
 
 
 <p align="center">
