@@ -1,5 +1,5 @@
 <p align="center">
- <img width="1000" src="assets/spike.if" alt="spike.gif"/>
+ <img width="1000" src="assets/spike.gif" alt="spike.gif"/>
 </p>
 
 # Hello there
